@@ -4,4 +4,4 @@ I want to get started on a coding project to help learn AI better. My plan of pr
 
 ## code architecture rules
 
-I want to the project to follow Clean Architecture. I want clear 
+I want to the project to follow Clean Architecture. Seperate code into seperate concerns, and create models of objects where ever needed. 
